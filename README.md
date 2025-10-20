@@ -1,0 +1,2 @@
+- [Learn React JS - Full Beginner’s Tutorial & Practice Projects](https://www.youtube.com/watch?v=x4rFhThSX04&t=4448s)
+- [Author's case GitHub](https://github.com/scrimba/learn-react)
