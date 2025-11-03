@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/tenzies/(.*)", "destination": "/$1" },
-    { "source": "/(.*)", "destination": "/index.html" }
-  ]
-}
